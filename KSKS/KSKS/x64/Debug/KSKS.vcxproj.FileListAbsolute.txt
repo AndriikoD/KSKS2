@@ -1,0 +1,2 @@
+C:\Users\davle\Desktop\Study\curse3\VSprojects\SFMLstatic\KSKS\KSKS\x64\Debug\KSKS.vcxproj.AssemblyReference.cache
+C:\Users\davle\Desktop\Study\curse3\VSprojects\SFMLstatic\KSKS\KSKS\x64\Debug\KSKS.vcxproj.SuggestedBindingRedirects.cache

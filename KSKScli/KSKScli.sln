@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KSKScli", "KSKScli\KSKScli.vcxproj", "{37CA9281-FC98-464F-A2BB-7F6DD43D4071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Debug|x64.ActiveCfg = Debug|x64
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Debug|x64.Build.0 = Debug|x64
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Debug|x86.ActiveCfg = Debug|Win32
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Debug|x86.Build.0 = Debug|Win32
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Release|x64.ActiveCfg = Release|x64
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Release|x64.Build.0 = Release|x64
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Release|x86.ActiveCfg = Release|Win32
+		{37CA9281-FC98-464F-A2BB-7F6DD43D4071}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20EF9D9-1E86-46E0-BDFD-7F8D5D9F2F10}
+	EndGlobalSection
+EndGlobal
